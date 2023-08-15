@@ -123,6 +123,19 @@ The Yoga Classifier is an AI-based system that uses state-of-the-art machine lea
   <p>The dataset used for this project was self-collected. It consists of images that have either stick blur or not.
     The dataset was prepared to facilitate the training and evaluation of the classification model.</p>
 
+   <h2>Key Features:</h2>
+  <ul>
+    <li>Stick Blur or Not classification using EfficientNet model</li>
+  </ul>
+
+  <h2>Technologies Used:</h2>
+  <ul>
+    <li>Python for scripting and development</li>
+    <li>PyTorch as the deep learning framework</li>
+    <li>EfficientNet model for Stick Blur classification</li>
+  </ul>
+</body>
+
   <h2>Results and Outcomes:</h2>
   <p>The model was trained for 5 epochs and achieved the following results:</p>
 
