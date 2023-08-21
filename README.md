@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Yoga Classifier</title>
+  <title> Yoga Classifier </title>
 </head>
 
 <body>
