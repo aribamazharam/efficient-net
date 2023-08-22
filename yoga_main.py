@@ -1,5 +1,5 @@
 
-from yoga_functions import train_yoga_model
+from train import train_yoga_model
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 
